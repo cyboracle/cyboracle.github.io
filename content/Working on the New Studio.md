@@ -14,7 +14,7 @@ tags:
   - YouTube
 title: Working on the New Studio
 ---
-The decluttering continues, especially as it's hot and smokey out. The new space in the basement that I'm clearing to move all my [#sewing](app://obsidian.md/index.html#sewing) into is big enough to contain So Many Activities. Check out the layout gameplan..
+The decluttering continues, especially as it's hot and smokey out. The new space in the basement that I'm clearing to move all my [#sewing](app://obsidian.md/index.html#sewing) into is big enough to contain So Many Activities. Check out the layout gameplan.
 
 ![[Screenshot 2026-07-18 at 12.12.18 PM.png]]
 
