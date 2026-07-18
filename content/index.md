@@ -12,4 +12,4 @@ gardens allow for continuous learning and exploration,
 presenting thoughts that may not be fully polished or complete.
 ```
 
-Check out the navigation on the left, any of the topic area folder there, or the nifty graph and I hope you enjoy following along various adventures with me.
+Check out the navigation on the left, any of the topic area folder there, or the nifty graph and I hope you enjoy following along various adventures with me..
