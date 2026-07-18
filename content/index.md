@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Digital Garden
+publish: true
 ---
 Welcome to my digital garden, a place for putting notes and photos and such. I guess in the olden days this would be called a blog, but I like the idea of a digital garden.
 
