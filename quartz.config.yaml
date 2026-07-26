@@ -6,6 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: google
+    tagId: 'G-H83TWH11E5'
   locale: en-US
   baseUrl: cyboracle.github.io
   ignorePatterns:
